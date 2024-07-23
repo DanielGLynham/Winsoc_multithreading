@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Winsock Client", "Winsock Client\Winsock Client.vcxproj", "{DE59DDC4-B996-4DAD-B4B0-548BC7912A35}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Winsock Server", "Winsock Server\Winsock Server.vcxproj", "{F20872A5-5A86-41E5-B1AD-AB78B47C08CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE59DDC4-B996-4DAD-B4B0-548BC7912A35}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DE59DDC4-B996-4DAD-B4B0-548BC7912A35}.Debug|Win32.Build.0 = Debug|Win32
+		{DE59DDC4-B996-4DAD-B4B0-548BC7912A35}.Release|Win32.ActiveCfg = Release|Win32
+		{DE59DDC4-B996-4DAD-B4B0-548BC7912A35}.Release|Win32.Build.0 = Release|Win32
+		{F20872A5-5A86-41E5-B1AD-AB78B47C08CC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F20872A5-5A86-41E5-B1AD-AB78B47C08CC}.Debug|Win32.Build.0 = Debug|Win32
+		{F20872A5-5A86-41E5-B1AD-AB78B47C08CC}.Release|Win32.ActiveCfg = Release|Win32
+		{F20872A5-5A86-41E5-B1AD-AB78B47C08CC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

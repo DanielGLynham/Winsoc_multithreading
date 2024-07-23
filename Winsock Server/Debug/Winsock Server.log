@@ -1,0 +1,12 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  Winsock Server.cpp
+F:\Final Year\Console3\VS2017 multithreaded winsock UDP\Winsock Server\Winsock Server.cpp(401,26): warning C4018: '<': signed/unsigned mismatch
+F:\Final Year\Console3\VS2017 multithreaded winsock UDP\Winsock Server\Winsock Server.cpp(412,27): warning C4018: '<': signed/unsigned mismatch
+F:\Final Year\Console3\VS2017 multithreaded winsock UDP\Winsock Server\Winsock Server.cpp(430,26): warning C4018: '<': signed/unsigned mismatch
+F:\Final Year\Console3\VS2017 multithreaded winsock UDP\Winsock Server\Winsock Server.cpp(128,6): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Final Year\Console3\VS2017 multithreaded winsock UDP\Winsock Server\Winsock Server.cpp(136,6): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Final Year\Console3\VS2017 multithreaded winsock UDP\Winsock Server\Winsock Server.cpp(144,6): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Final Year\Console3\VS2017 multithreaded winsock UDP\Winsock Server\Winsock Server.cpp(152,6): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Final Year\Console3\VS2017 multithreaded winsock UDP\Winsock Server\Winsock Server.cpp(273,6): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Final Year\Console3\VS2017 multithreaded winsock UDP\Winsock Server\Winsock Server.cpp(282,6): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Winsock Server.vcxproj -> F:\Final Year\Console3\VS2017 multithreaded winsock UDP\Winsock Server\Debug\Winsock Server.exe

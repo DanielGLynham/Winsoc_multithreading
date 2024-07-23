@@ -1,0 +1,9 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  Winsock Client.cpp
+F:\Final Year\Console3\VS2017 multithreaded winsock UDP\Winsock Client\Winsock Client.cpp(240,25): warning C4018: '<': signed/unsigned mismatch
+F:\Final Year\Console3\VS2017 multithreaded winsock UDP\Winsock Client\Winsock Client.cpp(279,25): warning C4018: '<': signed/unsigned mismatch
+F:\Final Year\Console3\VS2017 multithreaded winsock UDP\Winsock Client\Winsock Client.cpp(41,14): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+F:\Final Year\Console3\VS2017 multithreaded winsock UDP\Winsock Client\Winsock Client.cpp(62,35): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+F:\Final Year\Console3\VS2017 multithreaded winsock UDP\Winsock Client\Winsock Client.cpp(67,7): warning C4101: 'mapdone': unreferenced local variable
+stdafx.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  Winsock Client.vcxproj -> F:\Final Year\Console3\VS2017 multithreaded winsock UDP\Winsock Client\Debug\Winsock Client.exe
